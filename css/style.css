@@ -579,7 +579,7 @@ p, figcaption, figure, h3 {
 }
 .linkbar_home:after {
   width: 76px;
-  left: 0;
+  left: 36px;
   transform: translateX(100%);
 }
 
