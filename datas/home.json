@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Déforestation en Amazonie",
+    "subtitle": "La destruction des poumons de notre planète !",
+    "background": "img/foret.jpg",
+    "separatorEnabled": [1],
+    "parallax": [
+      {
+        "class": "plante_parallax",
+        "src": "img/plante1.png",
+        "x": 0.005,
+        "y": 0.005,
+        "translate": "x,-50%:y,30px",
+        "transform": "scaleX(-1)"
+      }
+    ],
+    "particules": true
+  },
+  {
+    "title": "Le coffre-fort de la biodiversité en danger",
+    "subtitle": "Les découvertes de l’homme engendrent leur disparition.<br>Soulevez les différents volets pour découvrir ceux qui peuplent la forêt.",
+    "background": "img/human.jpg",
+    "separatorEnabled": [3],
+    "parallax": [
+      {
+        "class": "human_parallax",
+        "src": "img/human_person.png",
+        "x": 0.05,
+        "y": 1
+      }
+    ],
+    "particules": false
+  },
+  {
+    "title": "de 1970 à aujourd’hui état des lieux",
+    "subtitle": "Des miliers de kilomètres carrés de forêt ont été anéantis par l’être humain au fil des ans.<br>Découvrez l’étendue de cette perte année après année.",
+    "background": "img/danger.jpg",
+    "separatorEnabled": [3],
+    "parallax": [],
+    "particules": false
+  },
+  {
+    "title": "une industrie au service de l’homme",
+    "subtitle": "Nous sommes les propres créateurs de notre société de consommation.",
+    "background": "img/causes.jpg",
+    "separatorEnabled": [3],
+    "parallax": [],
+    "particules": false
+  },
+  {
+    "title": "Agissons !",
+    "subtitle": "L'homme abime les forets, la déforestation en est la preuve,<br>notre planète subit les conséquences.",
+    "background": "img/bibliographie.jpg",
+    "separatorEnabled": [],
+    "parallax": [],
+    "particules": false
+  }
+]

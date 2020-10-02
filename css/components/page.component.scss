@@ -1,0 +1,99 @@
+.page{
+  width: 100%;
+  height: 100%;
+}
+
+.seconds_pages{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.page_center {
+  text-shadow: 1px 1px 18px #2424248a;
+  background-image: url(../img/foret.jpg);
+  background-repeat: no-repeat;
+  background-origin: content-box;
+  background-size: cover;
+  background-position: center;
+}
+
+.page_lite{
+  padding: 140px;
+  &:before{
+    content: "";
+    position: absolute;
+    top: 158px;
+    left: 0;
+    height: 1px;
+    background-color: black;
+    width: 60px;
+  }
+}
+
+.page_number{
+  position: absolute;
+  top: -65px;
+  z-index: -1;
+  line-height: 220px;
+  color: #dfdede;
+  font-size: 272px;
+  font-family: 'Agent Mac';
+}
+
+.page_title{
+  position: relative;
+  z-index: 10;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-size: 40px;
+  font-family: 'Josefin Sans SemiBold';
+}
+
+.page_main{
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.page_info{
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  min-height: 300px;
+  padding: 0 60px;
+}
+
+.page_info_bloc{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+
+.page_info_illustration{
+  height: 100px;
+  width: 100%;
+  margin-bottom: 80px;
+}
+
+.page_info_legend{
+  text-align: center;
+}
+
+.page_background_circles{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  z-index: -1;
+  transform: translate(-50%, calc(-50% + 50px));
+}
+
+.page_background_circles circle{
+  stroke-dasharray: 0.1 1;
+  stroke-width: 0.1px;
+  stroke-opacity: 0.4;
+}

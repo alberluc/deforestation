@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" onclick="alert(&quot;d&quot;)" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+	 x="0px" y="0px" viewBox="0 0 57.1 15.3" style="enable-background:new 0 0 57.1 15.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#EFEFEF;}
+	.st1{opacity:0.7;}
+	.st2{fill:#999999;}
+	.st3{fill:#BC0202;}
+	.st4{fill:#75892B;}
+	.st5{fill:#EFEFEF;stroke:#000000;stroke-miterlimit:10;}
+	.st6{fill:#494949;}
+	.st7{fill:none;stroke:#333333;stroke-miterlimit:10;}
+	.st8{opacity:4.000000e-02;}
+	.st9{fill:#BC0202;stroke:#EFEFEF;stroke-width:9;stroke-miterlimit:10;}
+	.st10{fill:#75892B;stroke:#EFEFEF;stroke-width:7;stroke-miterlimit:10;}
+	.st11{opacity:0.5;}
+	.st12{clip-path:url(#SVGID_4_);}
+	.st13{opacity:0.4;}
+	.st14{opacity:0.4;fill:#333333;stroke:#808080;stroke-width:0.75;stroke-miterlimit:10;}
+	.st15{fill:#333333;stroke:#BC0202;stroke-width:0.75;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st17{fill:#FFFFFF;}
+	.st18{clip-path:url(#SVGID_16_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st19{fill:none;stroke:#FFFFFF;stroke-width:2;stroke-miterlimit:10;}
+	.st20{fill:#FFFFFF;stroke:#FCFCFC;stroke-width:0.75;stroke-miterlimit:10;}
+	.st21{opacity:0.4;fill:#FFFFFF;stroke:#FCFCFC;stroke-width:0.75;stroke-miterlimit:10;}
+	.st22{fill:#D1D1D1;}
+	.st23{fill:#333333;}
+	.st24{opacity:0.7;clip-path:url(#SVGID_22_);}
+	.st25{clip-path:url(#SVGID_22_);}
+	.st26{opacity:0.5;clip-path:url(#SVGID_22_);}
+	.st27{clip-path:url(#SVGID_24_);fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st28{fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:10;}
+	.st29{fill:#7F1616;}
+	.st30{fill:#58661E;}
+	.st31{fill:#7F7F7F;}
+	.st32{fill:none;}
+	.st33{opacity:0.22;fill:#515151;}
+	.st34{fill:#BC0202;stroke:#EFEFEF;stroke-width:4.5;stroke-miterlimit:10;}
+	.st35{fill:none;stroke:#BC0202;stroke-width:10;stroke-miterlimit:10;}
+	.st36{fill:#B3B3B3;}
+	.st37{opacity:0.7;clip-path:url(#SVGID_28_);}
+	.st38{opacity:0.5;clip-path:url(#SVGID_28_);}
+	.st39{opacity:0.4;clip-path:url(#SVGID_28_);}
+	.st40{clip-path:url(#SVGID_30_);fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st41{clip-path:url(#SVGID_32_);fill:#EFEFEF;stroke:#000000;stroke-miterlimit:10;}
+	.st42{fill:#EDEDEE;}
+	.st43{fill:#FF968A;}
+	.st44{fill:#91AAC4;}
+	.st45{fill:#3F5666;}
+	.st46{fill:#E8C1B5;}
+	.st47{fill:#CCA295;}
+	.st48{fill:#E1E9F2;}
+	.st49{fill:#B3D2F2;}
+	.st50{fill:#2F3F4A;}
+	.st51{fill:#9AA7B8;}
+	.st52{fill:#444D56;}
+	.st53{fill:#2C343A;}
+	.st54{fill:#EAA50C;}
+	.st55{fill:#A0D9F2;}
+	.st56{fill:#D18E07;}
+	.st57{fill:#A56B04;}
+	.st58{fill:#F7B32D;}
+	.st59{fill:#1D2C30;}
+	.st60{fill:#FFE300;}
+	.st61{fill:#E5C505;}
+	.st62{fill:#DB950B;}
+	.st63{fill:#81C784;}
+	.st64{fill:#4CAF50;}
+	.st65{fill:#B26147;}
+	.st66{fill:#8C4D39;}
+	.st67{fill:#99533E;}
+	.st68{fill:#CC6E51;}
+	.st69{fill:#F9C199;}
+	.st70{fill:#F08466;}
+	.st71{fill:#535353;}
+	.st72{fill:#A2A2A2;}
+	.st73{fill:#FEC24C;}
+	.st74{fill:#BC8D2F;}
+	.st75{fill:#CBCDD1;}
+	.st76{opacity:0.38;fill:#FFFFFF;}
+	.st77{opacity:0.73;fill:#BC0202;}
+	.st78{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st79{fill:#A6A8AA;}
+	.st80{fill:#C43535;}
+	.st81{fill:#D0D1D3;}
+	.st82{fill:#808183;}
+	.st83{clip-path:url(#SVGID_34_);fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st84{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st85{fill:#325763;}
+	.st86{fill:#05232E;}
+	.st87{fill:#6B8F9C;}
+	.st88{fill:#F6D76F;}
+	.st89{fill:#FBB071;}
+	.st90{fill:#77BA70;}
+	.st91{fill:#497F47;}
+	.st92{fill:#F4D682;}
+	.st93{fill:#A5C68B;}
+	.st94{fill:#8C5218;}
+	.st95{fill:#CCA154;}
+	.st96{fill:#3E721D;}
+	.st97{fill:#77B255;}
+	.st98{fill:#292F33;}
+	.st99{fill:#AA3E51;}
+	.st100{fill:#D6C185;}
+	.st101{fill:#F72349;}
+	.st102{fill:#16A5D9;}
+	.st103{fill:#FB5858;}
+	.st104{fill:#D87D7D;}
+	.st105{fill:#8DBAC6;}
+	.st106{fill:#66A3B2;}
+	.st107{fill:#4D4D4D;}
+	.st108{fill:#5E6D1D;}
+	.st109{fill:#874D20;}
+	.st110{fill:#BA9052;}
+	.st111{fill:#B1CD3E;}
+	.st112{fill:#A3BC3B;}
+	.st113{fill:#7E9822;}
+	.st114{fill:#677C0F;}
+	.st115{fill:#99AA37;}
+	.st116{display:none;}
+	.st117{clip-path:url(#SVGID_38_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st118{clip-path:url(#SVGID_40_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st119{clip-path:url(#SVGID_42_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st120{opacity:0.3;clip-path:url(#SVGID_42_);fill:#FFFFFF;}
+	.st121{clip-path:url(#SVGID_44_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st122{display:inline;}
+	.st123{clip-path:url(#SVGID_48_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st124{clip-path:url(#SVGID_50_);fill:none;stroke:#BC0202;stroke-width:1.5;stroke-miterlimit:10;}
+	.st125{clip-path:url(#SVGID_52_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st126{opacity:0.3;clip-path:url(#SVGID_52_);fill:#FFFFFF;}
+	.st127{clip-path:url(#SVGID_54_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st128{display:inline;opacity:0.12;fill:#050505;}
+	.st129{clip-path:url(#SVGID_58_);fill:none;stroke:#BC0202;stroke-width:1.5;stroke-miterlimit:10;}
+	.st130{clip-path:url(#SVGID_60_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st131{clip-path:url(#SVGID_62_);fill:none;stroke:#BC0202;stroke-width:1.5;stroke-miterlimit:10;}
+	.st132{clip-path:url(#SVGID_64_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st133{opacity:0.3;clip-path:url(#SVGID_64_);fill:#FFFFFF;}
+	.st134{clip-path:url(#SVGID_66_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st135{clip-path:url(#SVGID_68_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st136{clip-path:url(#SVGID_70_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st137{opacity:0.19;clip-path:url(#SVGID_72_);}
+	.st138{clip-path:url(#SVGID_74_);fill:none;stroke:#BC0202;stroke-width:1.5;stroke-miterlimit:10;}
+	.st139{clip-path:url(#SVGID_76_);fill:none;stroke:#BC0202;stroke-width:1.5;stroke-miterlimit:10;}
+	.st140{clip-path:url(#SVGID_78_);fill:none;stroke:#BC0202;stroke-width:1.5;stroke-miterlimit:10;}
+	.st141{clip-path:url(#SVGID_80_);fill:none;stroke:#FFFFFF;stroke-width:1.5;stroke-miterlimit:10;}
+	.st142{opacity:0.3;clip-path:url(#SVGID_80_);fill:#FFFFFF;}
+</style>
+<g id="Contenu_principal">
+</g>
+<g id="Tribus">
+	<g>
+		<path class="st79" d="M56.9,7.2c0.1,0.1,0.2,0.3,0.2,0.5c0,0.4-0.3,0.7-0.7,0.7l-15.9,0c-0.4,0-0.7-0.3-0.7-0.7
+			c0-0.4,0.3-0.7,0.7-0.7l15.9,0C56.6,7,56.8,7.1,56.9,7.2z"/>
+		<g>
+			<path class="st79" d="M57.1,7.6c0-0.2-0.1-0.3-0.2-0.4C56.8,7.1,56.6,7,56.4,7L40.6,7c-0.4,0-0.7,0.3-0.7,0.6L57.1,7.6z"/>
+			<path class="st79" d="M0,4.7l0,6c0,0.5,0.4,1,1,1c0.5,0,1-0.4,1-1V8.9l14.9,0V6.5l-14.9,0V4.7c0-0.5-0.4-1-1-1
+				C0.4,3.7,0,4.1,0,4.7z"/>
+		</g>
+		<path class="st79" d="M0,4.7l0,3l16.8,0l0-1.2l-14.9,0V4.7c0-0.5-0.4-1-1-1C0.4,3.7,0,4.1,0,4.7z"/>
+		<path class="st17" d="M44.6,5.7v3.9c0,1.1-0.9,2-2,2l-27.7,0c-1.1,0-2-0.9-2-2l0-3.9c0-1.1,0.9-2,2-2l27.7,0
+			C43.7,3.7,44.6,4.6,44.6,5.7z"/>
+		<path class="st80" d="M25.4,11.6h17.2c1.1,0,2-0.9,2-2V5.7c0-1.1-0.9-2-2-2H25.4L25.4,11.6z"/>
+		<path class="st3" d="M44.6,7.6V5.7c0-1.1-0.9-2-2-2H25.4l0,3.9L44.6,7.6z"/>
+		<path class="st17" d="M14.9,3.7c-1.1,0-2,0.9-2,2v3.9c0,1.1,0.9,2,2,2h10.5V3.7L14.9,3.7z"/>
+		<path class="st81" d="M12.9,7.6h12.5V3.7H14.9c-1.1,0-2,0.9-2,2L12.9,7.6z"/>
+		<path class="st79" d="M14.8,0.4c0.2,0.2,0.4,0.6,0.4,1l0,12.6c0,0.7-0.6,1.4-1.4,1.4c-0.7,0-1.4-0.6-1.4-1.4l0-12.6
+			c0-0.7,0.6-1.4,1.4-1.4C14.3,0,14.6,0.2,14.8,0.4z"/>
+		<path class="st82" d="M12.5,7.6l2.7,0V1.4c0-0.4-0.2-0.7-0.4-1c-0.2-0.2-0.6-0.4-1-0.4c-0.7,0-1.4,0.6-1.4,1.4L12.5,7.6z"/>
+	</g>
+</g>
+<g id="Animaux">
+</g>
+<g id="Végétaux">
+</g>
+<g id="GRID" class="st116">
+</g>
+<g id="_x31_">
+</g>
+<g id="_x32_" class="st116">
+</g>
+<g id="_x33_" class="st116">
+</g>
+<g id="_x34_" class="st116">
+</g>
+</svg>

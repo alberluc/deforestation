@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,kBAAmB;EACjB,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,CAAC;EACN,KAAK,EAAE,IAAI;EACX,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,SAAS",
+"sources": ["forest.layout.scss"],
+"names": [],
+"file": "forest.layout.css"
+}

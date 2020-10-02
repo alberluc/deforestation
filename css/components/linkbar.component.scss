@@ -1,0 +1,43 @@
+.linkbar {
+  font-family: "JosefinSans-Regular";
+  font-size: 14px;
+  position: absolute;
+  &:before, &:after{
+    content: "";
+    display: block;
+    position: absolute;
+    top: 50%;
+    height: 1px;
+    background-color: #333333;
+  }
+  & a{
+    cursor: pointer;
+    position: relative;
+    z-index: 10;
+    background-color: #efefef;
+    padding: 15px;
+  }
+}
+
+.linkbar_home {
+  top: 38px;
+  right: 110px;
+  transform-origin: 100% 0;
+  transform: rotate(-90deg) translateY(-100%);
+  &:after{
+    width: 76px;
+    left: 0;
+    transform: translateX(100%);
+  }
+}
+
+.linkbar_sources {
+  bottom: calc(-15px + 40px);
+  right: 110px;
+  transform-origin: 100% 0;
+  transform: rotate(-90deg) translate(100%, -100%);
+  &:before {
+    width: 40px;
+    transform: translateX(-100%);
+  }
+}

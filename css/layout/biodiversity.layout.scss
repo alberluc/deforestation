@@ -1,0 +1,191 @@
+.page_biodiversity{
+  display: flex;
+}
+
+.pb_section{
+  position: relative;
+  width: calc(100% / 3);
+  & .shutter{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  &:nth-child(1) .shutter{
+    background-position: 9%;
+    background-image: url("../img/tribu.jpg");
+  }
+  &:nth-child(2) .shutter{
+    background-position: 100%;
+    background-image: url("../img/animal.jpg");
+  }
+  &:nth-child(3) .shutter{
+    background-image: url("../img/flak.jpg");
+    background-position: 29%;
+  }
+}
+
+.pb_main{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+}
+
+.pb_main{
+  &:before{
+    background-color: white;
+  }
+  .page_number{
+    z-index: auto;
+    color: rgba(255,255,255,0.5);
+  }
+  .page_title{
+    color: white
+  }
+  .linkbar{
+    &:after, &:before{
+      background-color: white;
+    }
+    color: white;
+  }
+  .linkbar a{
+    background-color: rgba(0,0,0,0);
+  }
+}
+
+.pb_section_main{
+  position: relative;
+  z-index: 30;
+  height: 100%;
+  padding: 4vw;
+  padding-bottom: calc(90px + 50px);
+  background-color: #efefef;
+  transform: translateY(100%);
+}
+
+.pb_section_main_title{
+  text-transform: uppercase;
+  font-family: JosefinSans-SemiBold;
+  font-size: 20px;
+  margin-bottom: 60px;
+  text-align: center;
+}
+
+.pb_tribe_sick{
+
+}
+
+.pb_tribe_sick_content{
+  display: flex;
+}
+
+.pb_tribe_sick_legend{
+  margin-left: 20px;
+  & p{
+    &:after{
+      content: "";
+      display: block;
+      position: absolute;
+      top: 50%;
+      right: calc(100% + 10px);
+      background: #333333;
+      height: 1px;
+    }
+  }
+}
+
+.pb_tribe_sick_legend_image{
+  width: 60px;
+}
+
+.pb_tribe_sick_legend-top{
+  position: relative;
+  &:after{
+    width: 50px;
+  }
+}
+
+.pb_tribe_sick_legend-bottom{
+  position: relative;
+  &:after{
+    width: 100px;
+  }
+}
+
+.pb_tribe_kill{
+  margin-top: 100px;
+}
+
+.pb_tribe_sick_legend_texts{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+  height: calc(100% - 27px);
+  & p{
+    font-size: 16px;
+    font-family: "Josefin Sans Light";
+  }
+}
+
+.pb_animals_title{
+  font-family: JosefinSans-SemiBold;
+  font-size: 16px;
+}
+
+.pb_animals_loss_row{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 2vh;
+}
+
+.pb_animals_loss_item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 15px;
+  width: calc(100% / 3);
+}
+
+.pb_animals_loss_legends{
+  padding: 15px;
+  width: calc(100% / 3);
+  height: 100px;
+}
+
+.pb_animals_chart_pie{
+  margin-top: 30px;
+  padding: 30px;
+  width: 7vw;
+  height: 7vw;
+}
+
+.pb_animals_firstTitle{
+  margin-bottom: 2vh;
+}
+
+.pb_animals_chart_pie_image{
+  width: 70%;
+  height: 100%;
+}
+
+.pb_animals_dangerous_data{
+  margin-top: 30px;
+}
+
+.pb_vegetal_chart_container{
+  margin-bottom: 100px;
+  & svg{
+    transform: translate(9%);
+  }
+}
+
+.pb_vegetal_text{
+  padding: 0 4vw;
+  text-align: center;
+  font-size: 16px;
+  font-family: "Josefin Sans";
+}

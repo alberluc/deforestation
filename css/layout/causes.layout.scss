@@ -1,0 +1,121 @@
+.page_causes_main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  padding-right: 46px;
+}
+
+.causes_cursor{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+
+.causes_cursor_item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 2.8%;
+  text-align: center;
+  font-family: 'JosefinSans-Regular';
+}
+
+.causes_cursor_img{
+  width: 35px;
+  height: 40px;
+}
+
+.causes_cursor_item_title{
+  font-weight: 700;
+  margin: 14px 0;
+  font-size: 14px;
+}
+
+.causes_cursor_item_content{
+  font-size: 12px;
+}
+
+.causes_cursor_item{
+  & .causes_cursor_img, & .causes_cursor_item_title{
+    transition: transform 0.5s, opacity 0.5s;
+    transform: translateY(30px);
+  }
+  & .causes_cursor_item_content{
+    transition: transform 0.5s, opacity 0.5s;
+    transform: translateY(-10px);
+    opacity: 0;
+  }
+}
+
+.causes_chart_item-active{
+  & .causes_cursor_img, & .causes_cursor_item_title{
+    transform: translateX(0px);
+  }
+  & .causes_cursor_item_content{
+    transform: translateX(0px);
+    opacity: 1;
+  }
+}
+
+.causes_charts{
+  position: relative;
+  bottom: 45px;
+  & .slice{
+    transform-origin: 50% 50%;
+  }
+  & path{
+    transition: transform 0.3s;
+  }
+}
+
+.causes_chart_legend{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 38px;
+  color: #333333;
+  font-family: 'JosefinSans-Regular';
+}
+
+.causes_chart_unit{
+  padding-left: 10px;
+}
+
+.causes_cursor_item_dot{
+  width: 10px;
+  height: 10px;
+  margin-top: 30px;
+  background-color: #494949;
+  border-radius: 50%;
+}
+
+.causes_chart_item-active .causes_cursor_item_dot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 30px;
+  height: 30px;
+  background-color: #efefef;
+  border-radius: 50%;
+  border: solid 1px #494949;
+}
+.causes_chart_item-active .causes_cursor_item_dot:before {
+  content: "";
+  display: block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: #75892b;
+}
+
+.page_causes_plant{
+  position: absolute;
+  right: 0;
+  width: 30vw;
+  top: 50%;
+  transform: translateY(calc(-50% - 145px));
+}

@@ -1,0 +1,53 @@
+.location_container{
+  position: absolute;
+  right: 110px;
+  top: 50%;
+  font-family: 'RobotoCondensed-Light';
+}
+
+.l-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 30px;
+  margin-top: 30px;
+  font-size: 14px;
+  color: #808080;
+  &:after{
+    content: "";
+    display: block;
+    width: 12px;
+    height: 1px;
+    margin-left: 20px;
+    background-color: #808080;
+  }
+  &-active{
+    color: #BC0202;
+    font-size: 20px;
+    &:after{
+      margin-left: 15px;
+      background-color: #BC0202;
+    }
+  }
+  &:first-child{
+    margin-top: 0;
+  }
+  &:last-child{
+    margin-bottom: 0;
+  }
+}
+
+.page_biodiversity{
+  .l-item{
+    color: white;
+    &:after{
+      background-color: white;
+    }
+    &-active{
+      color: white;
+      &:after{
+        background-color: white;
+      }
+    }
+  }
+}

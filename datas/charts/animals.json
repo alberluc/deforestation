@@ -1,0 +1,83 @@
+{
+  "mammiferes" : {
+    "type" : "pie-lite",
+    "unit" : "%",
+    "total": "530",
+    "arcs" : [
+      {
+        "color": "#75892B",
+        "width": "5",
+        "value": "530"
+      },
+      {
+        "color": "#BC0202",
+        "width": "5",
+        "value": "13%"
+      }
+    ]
+  },
+  "oiseaux" : {
+    "type" : "pie-lite",
+    "unit" : "%",
+    "arcs" : [
+      {
+        "color": "#75892B",
+        "width": "5",
+        "value": "1800"
+      },
+      {
+        "color": "#BC0202",
+        "width": "5",
+        "value": "9%"
+      }
+    ]
+  },
+  "reptiles" : {
+    "type" : "pie-lite",
+    "unit" : "%",
+    "arcs" : [
+      {
+        "color": "#75892B",
+        "width": "5",
+        "value": "680"
+      },
+      {
+        "color": "#BC0202",
+        "width": "5",
+        "value": "3%"
+      }
+    ]
+  },
+  "amphibiens" : {
+    "type" : "pie-lite",
+    "unit" : "%",
+    "arcs" : [
+      {
+        "color": "#75892B",
+        "width": "5",
+        "value": "800"
+      },
+      {
+        "color": "#BC0202",
+        "width": "5",
+        "value": "2%"
+      }
+    ]
+  },
+  "poisons" : {
+    "type" : "pie-lite",
+    "unit" : "%",
+    "arcs" : [
+      {
+        "color": "#75892B",
+        "width": "5",
+        "value": "3000"
+      },
+      {
+        "color": "#BC0202",
+        "width": "5",
+        "value": "5%"
+      }
+    ]
+  }
+}

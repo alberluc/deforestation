@@ -1,0 +1,20 @@
+.location_container {
+  font-family: 'RobotoCondensed-Light'; }
+
+.l-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 15px;
+  font-size: 14px;
+  color: #808080; }
+  .l-item:after {
+    content: "";
+    display: block;
+    width: 12px;
+    height: 1px; }
+  .l-item-active {
+    color: #BC0202;
+    font-size: 20px; }
+
+/*# sourceMappingURL=location.component.css.map */

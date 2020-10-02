@@ -1,0 +1,70 @@
+.page_state_plant{
+  position: absolute;
+  bottom: 0;
+  left: 32px;
+  width: 42vw;
+}
+
+.page_state-right{
+  position: absolute;
+  top: -115px;
+  right: 50px;
+  width: 200px;
+}
+
+.page_state_legend{
+  &_title{
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  &_content{
+    text-align: justify;
+  }
+}
+
+.page_state_main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 1.5vh;
+}
+
+.state_charts{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 350px;
+  height: 350px;
+  transform: translate(-50%, -50%);
+}
+
+.state_chart_legends{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  right: -123px;
+  top: 20px;
+  height: 26.8%;
+  width: 83%;
+}
+
+.state_chart_legend{
+  display: block;
+  font-size: 11px;
+  font-family: "Josefin Sans", serif;
+}
+
+.state_chart_unit{
+  display: block;
+  color: #75892b;
+}
+
+.page_state_guide{
+  display: block;
+  position: absolute;
+  padding: 10px 0;
+  width: 150px;
+  font-size: 14px;
+  font-family: "Josefin Sans";
+}

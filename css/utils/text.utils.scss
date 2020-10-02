@@ -1,0 +1,19 @@
+h1, h2, h3, h4, h5,
+.h1, .h2, .h3, .h4, .h5{
+
+}
+
+h1, .h1{
+  font-family: 'JosefinSans-Bold';
+}
+
+h3, .h3{
+  font-family: 'JosefinSans-Regular';
+  font-size: 30px;
+}
+
+p, figcaption, figure, h3{
+  font-family: 'JosefinSans-Regular';
+  font-size: 20px;
+  color: #333333;
+}

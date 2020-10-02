@@ -1,0 +1,27 @@
+[
+  {
+  "label" : "65 - 70<span class='causes_chart_unit'>%</span>",
+    "value": "67.5",
+    "color": "#A30000"
+  },
+  {
+  "label" : "20 - 25<span class='causes_chart_unit'>%</span>",
+    "value": "22.5",
+    "color": "#d20000"
+  },
+  {
+  "label" : "5 - 10<span class='causes_chart_unit'>%</span>",
+    "value": "7.5",
+    "color": "#f30101"
+  },
+  {
+  "label" : "2 - 3<span class='causes_chart_unit'>%</span>",
+    "value": "2.5",
+    "color": "#ff4b4b"
+  },
+  {
+  "label" : "1 - 2<span class='causes_chart_unit'>%</span>",
+    "value": "1.5",
+    "color": "#ffa2a2"
+  }
+]
